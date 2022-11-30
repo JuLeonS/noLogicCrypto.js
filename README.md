@@ -51,6 +51,10 @@ You can do it this way or just write everything in the main file, whichever is c
 ```javascript
 const logic_ = await import(`.path/to/js/noLogicCrypto.js`);
 ```
+or
+```html
+<script src="./path/to/js/logic.js" type="application/javascript"></script>
+```
 
 #### General Information
 All methods have a return of this type:
