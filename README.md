@@ -1,6 +1,9 @@
 # noLogicCrypto
 MetaMask / WalletConnect / Solflare / PhantomApp
+[Pure JS]
 
-Example of payment [public]
+Example of payment on pure JS [public]
 
-I will not explain anything, who needs it, he will understand the libraries that may be needed in the kit...
+Warning. Consider this as an example, not as an implementation of your payment, I do not guarantee the stability of my functions!    
+
+I'm not going to explain anything; whoever needs it will figure it out. All the libraries that were needed in one way or another are in the "@js" folder. 
