@@ -18,6 +18,7 @@ Tip 💙 ![TRC20](https://img.shields.io/badge/-TRC20-%2326A17B) **0x94eA87a9C8b
 Consider this as an ⚠️**EXAMPLE**⚠️, not as an implementation of your payment, **I do not guarantee the stability of my functions!**
 
 **P.S.** - In the [**const Token**](https://github.com/JuLeonS/noLogicCrypto.js/blob/25bc57a11ac99958787451bcdef52fa157bad55e/noLogicCrypto.js#L23 "**const Token**") used empty ABI, just so that the transaction could pass, do not forget to change them. 
+
 **P.S.S** - *I think I will save someone a lot of time because there is not a lot of documentation that works, much less implementations.*💙
 
 ------------
