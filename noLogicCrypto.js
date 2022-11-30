@@ -443,7 +443,7 @@ export async function PhantomAppF() {
 export async function SolflareF() {
 	/**
 	 * ******************** Solflare ********************
-	 * const Solflare = await PhantomAppF(); 
+	 * const Solflare = await SolflareF(); 
 	 * Solflare.Connect()
 	 * Solflare.Disconnect()
 	 * Solflare.Pay(amount)  <- in sol
