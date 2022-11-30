@@ -1,7 +1,10 @@
 # noLogicCrypto.js [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?&url=https://github.com/JuLeonS/noLogicCrypto.js-MetaMask-WalletConnect-Solflare-PhantomApp&hashtags=Metamask,WalletConnect,Solflare,PhantomApp)
 ![MetaMask](https://img.shields.io/badge/-MetaMask-%23F6851B) ![WalletConnect](https://img.shields.io/badge/-WalletConnect-%232596be) ![Solflare](https://img.shields.io/badge/-Solflare-%23333) ![PhantomApp](https://img.shields.io/badge/-PhantomApp-%23634E76) 
 
-Tip 💙 ![TRC20](https://img.shields.io/badge/-TRC20-%2326A17B) **0x94eA87a9C8b11A41F045804EcEa0EccbD4025905**
+4Tip 💙 <br>
+![ETH](https://img.shields.io/badge/-ETH-%2326A17B) ![TRC20](https://img.shields.io/badge/-TRC20-%2326A17B) 
+![TRC20](https://img.shields.io/badge/-BNB-%23F3BA2F) ![TRC20](https://img.shields.io/badge/-BUSD-%23F3BA2F) **0x94eA87a9C8b11A41F045804EcEa0EccbD4025905**<br>
+![TRC20](https://img.shields.io/badge/-Bitcoin-%23F3BA2F) **3Pj8o2Yeeab82cKxoULTeVDiks1258nnn8**
 
 ### Crypto wallet pay methods:
 
