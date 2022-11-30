@@ -46,6 +46,12 @@ For **noLogicCrypto.js** to work, connect all the js in the **@js** folder in th
 	<script src="./path/to/js/walletconnect/web3modal.min.js" type="application/javascript"></script>
 <!-- WalletConnect -->
 ```
+
+You can do it this way or just write everything in the main file, whichever is convenient
+```javascript
+const logic_ = await import(`.path/to/js/noLogicCrypto.js`);
+```
+
 #### General Information
 All methods have a return of this type:
 if **true** - *array* [true, 'Some info or empty']
